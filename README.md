@@ -13,10 +13,7 @@
   </a>
   <br><br>
   <p style="font-size: 14px; line-height: 1.4; margin-top: 0;">
-    📍 Cape Town, South Africa<br>
-    🕘 16:36 (SAST)<br>
-    📧 michaelarobyn01@email.com<br>
-    💼 <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer">in/michaela-de-bruyn</a>
+    📍 South Africa<br>
   </p>
 </p>
 
