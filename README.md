@@ -1,104 +1,21 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Github, Linkedin } from "lucide-react";
-import { motion } from "framer-motion";
-import Image from "next/image";
+# 💫 About Me:
+I'm Michaela de Bruyn—a curious and ambitious junior data scientist with a passion for uncovering insights through data. I hold a Bachelor of Science in IT (Magna Cum Laude), a Postgraduate Diploma in IT, and I’m currently pursuing a Master’s in Data Science.<br><br>My strengths lie in data cleaning, data visualization, and cloud-based analytics, using tools like Power BI, SQL, Python, and Looker Studio. I’m deeply interested in machine learning, statistics, and building scalable, insight-driven solutions that empower decision-making.<br><br>This portfolio showcases my growing journey in data—blending technical skill, creative problem-solving, and continuous learning.
 
-export default function Portfolio() {
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-800 text-white font-sans">
-      <header className="p-8 text-center relative">
-        <motion.h1 
-          className="text-4xl md:text-6xl font-bold mb-2"
-          initial={{ opacity: 0, y: -20 }} 
-          animate={{ opacity: 1, y: 0 }} 
-          transition={{ duration: 1 }}>
-          Michaela de Bruyn
-        </motion.h1>
-        <motion.p 
-          className="text-lg md:text-xl text-gray-300"
-          initial={{ opacity: 0 }} 
-          animate={{ opacity: 1 }} 
-          transition={{ delay: 0.5 }}>
-          Junior Data Scientist | Power BI | SQL | Python
-        </motion.p>
-        <div className="mt-4 flex justify-center gap-6">
-          <a href="https://github.com/Michaela-de-Bruyn" target="_blank" rel="noopener noreferrer"><Github /></a>
-          <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer"><Linkedin /></a>
-        </div>
-        <div className="absolute top-4 right-4">
-          <Image 
-            src="/profile.jpg" 
-            alt="Michaela Profile" 
-            width={80} 
-            height={80} 
-            className="rounded-full border-2 border-white"
-          />
-        </div>
-      </header>
 
-      <main className="px-6 md:px-16 py-8 space-y-20">
-        <Section title="Skills">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            {["Python","SQL","Power BI","Excel","Looker Studio","Google Cloud","Data Cleaning","Data Visualization","Statistics","Machine Learning","Data Science Modules","Cloud Tools"].map((skill, index) => (
-              <motion.div
-                key={index}
-                whileHover={{ scale: 1.1 }}
-                className="bg-blue-600 hover:bg-blue-700 transition-colors duration-200 p-3 rounded-full text-center shadow-lg border border-blue-400 font-medium"
-              >
-                {skill}
-              </motion.div>
-            ))}
-          </div>
-        </Section>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michaela-de-bruyn/) 
 
-        <Section title="Education">
-          <Card>
-            <CardContent className="p-4 space-y-4">
-              <div>
-                <h3 className="text-xl font-semibold">Master's in Data Science</h3>
-                <p className="text-gray-300">In Progress</p>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold">Postgraduate Diploma in IT</h3>
-                <p className="text-gray-300">Completed</p>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold">Bachelor of Science in IT</h3>
-                <p className="text-gray-300">Graduated Magna Cum Laude</p>
-              </div>
-            </CardContent>
-          </Card>
-        </Section>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaela-de-Bruyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-        <Section title="Contact">
-          <p>🌐 <a href="https://github.com/Michaela-de-Bruyn" className="text-blue-400 hover:underline">github.com/Michaela-de-Bruyn</a></p>
-          <p>🔗 <a href="https://linkedin.com/in/michaela-de-bruyn" className="text-blue-400 hover:underline">linkedin.com/in/michaela-de-bruyn</a></p>
-          <div className="mt-4">
-            <a href="https://github.com/Michaela-de-Bruyn?tab=repositories" className="inline-block bg-pink-600 hover:bg-pink-700 text-white px-5 py-2 rounded-full shadow-md transition duration-200">View My Repositories</a>
-          </div>
-        </Section>
-      </main>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-      <footer className="text-center py-4 text-gray-500 text-sm">
-        © 2025 Michaela de Bruyn. All rights reserved.
-      </footer>
-    </div>
-  );
-}
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Michaela-de-Bruyn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-function Section({ title, children }) {
-  return (
-    <motion.section
-      className="space-y-4"
-      initial={{ opacity: 0, y: 50 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.8 }}
-      viewport={{ once: true }}
-    >
-      <h2 className="text-2xl md:text-3xl font-semibold border-b border-gray-600 pb-2">
-        {title}
-      </h2>
-      {children}
-    </motion.section>
-  );
-}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
