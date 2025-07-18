@@ -16,21 +16,6 @@ I am passionate about understanding how to harness data through advanced modelin
     width="400" 
     style="display: inline-block; margin-bottom: 20px;" />
 
-  <div style="font-size: 16px; line-height: 1.4; margin-bottom: 15px;">
-    📍 South Africa
-  </div>
-
-  <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
-    
-## Socials
-  </div>
-
-  <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" />
-  </a>
-
 </div>
 
 
