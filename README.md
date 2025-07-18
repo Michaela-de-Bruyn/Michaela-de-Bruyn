@@ -19,7 +19,7 @@ I am passionate about understanding how to harness data through advanced modelin
 </div>
 
 ## Featured Projects
-## Netflix Data Analysis: [Netflix Analysis](https://github.com/Michaela-de-Bruyn/netflix-data-analysis)
+[Netflix Analysis](https://github.com/Michaela-de-Bruyn/netflix-data-analysis)
 
 A beginner-friendly data exploration of Netflix titles
 Dive into the data behind one of the world's biggest streaming platforms. This project uses Python, pandas, matplotlib, and seaborn to analyze content trends, types, and release patterns on Netflix.
@@ -30,7 +30,7 @@ Visualized content distribution by type and release year
 Identified trends in movie vs TV show releases over time
 
 
-## Projects
+## Prior Projects
 
 - **Dashboard Automation:** Automated manual Excel reports into a dynamic Power BI dashboard by collaborating with Jira teams to access and analyze data.
 - **Anomaly Detection:** Cleaned and processed data to identify anomalies for retail dashboard reporting using Looker Studio and Google Cloud.
