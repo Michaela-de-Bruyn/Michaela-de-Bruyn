@@ -1,49 +1,33 @@
 <!-- About Me Section -->
 <div style="font-size: 18px; line-height: 1.5; max-width: 700px; margin-bottom: 20px;">
 
-### About Me
+About Me
 
-Hi, I'm Michaela, a driven data professional passionate about uncovering insights through data. I hold a BSc in IT (Magna Cum Laude), a Postgraduate Diploma in IT, and am currently pursuing my Master's in Data Science.
-I am passionate about understanding how to harness data through advanced modeling, Python programming, and manipulation techniques to uncover insights that drive smarter, impactful decisions. I enjoy transforming complex data into clear, actionable stories. Follow me on my upskilling journey as I dive deeper into Python, machine learning, and cutting-edge analytics tools to continually grow and deliver value. My goal is to use data to empower smarter decision-making and meaningful business impact.
+I am passionate about understanding how to harness data through advanced modeling, Python programming, and manipulation techniques to uncover insights that drive smarter, impactful decisions. With a strong foundation in IT and ongoing Master’s studies in Data Science, I enjoy transforming complex data into clear, actionable stories. Follow me on my upskilling journey as I dive deeper into Python, machine learning, and cutting-edge analytics tools to continually grow and deliver value. My goal is to use data to empower smarter decision-making and meaningful business impact.
+
 </div>
-<!-- Image and Info Section -->
-<div style="max-width: 700px; margin: auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Image centered top -->
-  <div style="flex-basis: 100%; text-align: center;">
+
+<!-- Image and Socials -->
+<div style="max-width: 700px; margin: auto; text-align: center;">
+
+  <img 
+    src="images/Data%20Science.png" 
+    alt="Data Science" 
+    width="400" 
+    style="display: inline-block; margin-bottom: 20px;" />
+
+  <div style="font-size: 14px; line-height: 1.4; margin-bottom: 10px;">
+    📍 South Africa
+  </div>
+
+  <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img 
-      src="images/Data%20Science.png" 
-      alt="Data Science" 
-      width="400" 
-      style="display: inline-block; margin-bottom: 20px;" />
-  </div>
-  <!-- Left side: mini bio block -->
-  <div style="flex: 1 1 300px; max-width: 300px; font-size: 14px; line-height: 1.4; border: 1px solid #ddd; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
-    <strong>Giovanni G.</strong><br />
-    gguillau · he/him<br />
-    COOP Data Analytics Senior Captain<br />
-    University at Buffalo Alumnus 🦬<br /><br />
-    0 followers · 3 following<br />
-    COOPCareers<br />
-    New York City<br />
-    09:36 - 6h behind<br />
-    gguillau98@gmail.com<br />
-    <a href="https://linktr.ee/gguillau" target="_blank" rel="noopener noreferrer">linktr.ee/gguillau</a><br />
-    <a href="https://linkedin.com/in/gguillau" target="_blank" rel="noopener noreferrer">in/gguillau</a>
-  </div>
-  <!-- Right side: LinkedIn badge and location -->
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-    <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 15px;">
-      <img 
-        src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" 
-        alt="LinkedIn" />
-    </a>
-    <div style="font-size: 14px; line-height: 1.4;">
-      📍 South Africa<br />
-      💼 <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
-    </div>
-  </div>
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" />
+  </a>
 
 </div>
+
 
 
 
