@@ -1,4 +1,4 @@
-<img src="images/profile.jpg" alt="Profile Image" class="profile-img" />
+<img src="images/Michaela Pic 1.png" alt="Profile Image" class="profile-img" />
 
 # About Me:
 Hi, I'm Michaela de Bruyn, a driven data professional with a BSc in IT (Magna Cum Laude), a Postgraduate Diploma in IT, and currently pursuing my Master's in Data Science.<br><br>💡 I specialize in data cleaning, visualization, and cloud-based analytics, with hands-on experience using Power BI, SQL, Looker Studio, and Google Cloud.<br><br>🔍 I've worked on projects spanning dashboard automation, anomaly detection, and small business data solutions—all aimed at transforming raw data into actionable insights.<br><br>📈 Passionate about continuous learning, I'm actively upskilling in Python and machine learning while exploring how data can drive smarter decision-making.
