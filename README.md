@@ -18,6 +18,17 @@ I am passionate about understanding how to harness data through advanced modelin
 
 </div>
 
+## Featured Projects
+## Netflix Data Analysis: [Netflix Analysis](https://github.com/Michaela-de-Bruyn/netflix-data-analysis)
+
+A beginner-friendly data exploration of Netflix titles
+Dive into the data behind one of the world's biggest streaming platforms. This project uses Python, pandas, matplotlib, and seaborn to analyze content trends, types, and release patterns on Netflix.
+
+Key Highlights:
+Cleaned and explored real Netflix dataset
+Visualized content distribution by type and release year
+Identified trends in movie vs TV show releases over time
+
 
 ## Projects
 
