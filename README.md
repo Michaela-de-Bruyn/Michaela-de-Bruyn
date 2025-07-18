@@ -1,3 +1,31 @@
+<style>
+  .about-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+
+  .about-text {
+    flex: 1 1 500px;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  .profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #4A90E2;
+    margin-left: auto;
+  }
+</style>
+
 <img src="images/Michaela Pic 1.png" alt="Profile Image" class="profile-img" />
 
 # About Me:
