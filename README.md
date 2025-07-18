@@ -1,5 +1,5 @@
 <!-- About Me Section -->
-<div style="font-size: 18px; line-height: 1.5; max-width: 700px; margin-bottom: 20px;">
+<div style="font-size: 22px; line-height: 1.6; max-width: 700px; margin-bottom: 30px;">
 
 About Me
 
@@ -16,8 +16,12 @@ I am passionate about understanding how to harness data through advanced modelin
     width="400" 
     style="display: inline-block; margin-bottom: 20px;" />
 
-  <div style="font-size: 14px; line-height: 1.4; margin-bottom: 10px;">
+  <div style="font-size: 16px; line-height: 1.4; margin-bottom: 15px;">
     📍 South Africa
+  </div>
+
+  <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+    Socials
   </div>
 
   <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
@@ -27,8 +31,6 @@ I am passionate about understanding how to harness data through advanced modelin
   </a>
 
 </div>
-
-
 
 
 ## Projects
