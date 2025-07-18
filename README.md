@@ -1,29 +1,31 @@
 <table>
-<tr>
-<td style="width: 180px; vertical-align: top; text-align: center;">
-<img src="images/Michaela%20Pic%201.png" width="120" style="border-radius: 50%; border: 2px solid #0077B5;" alt="Profile Image" /><br><br>
-<strong>Socials</strong><br>
-<a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a><br><br>
-<strong>Follow</strong><br>
-<img src="https://img.shields.io/badge/0%20followers-lightgrey?style=flat" />
-<img src="https://img.shields.io/badge/3%20following-lightgrey?style=flat" /><br><br>
-📍 Cape Town, South Africa<br>
-🕘 16:36 (SAST)<br>
-📧 michaelarobyn01@email.com<br>
-🔗 <a href="https://linktr.ee/michaela" target="_blank">linktr.ee/michaela</a><br>
-💼 <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank">in/michaela-de-bruyn</a>
-</td>
-<td style="vertical-align: top; padding-left: 20px;">
-### About Me
-Hi, I'm Michaela de Bruyn, a driven data professional with a BSc in IT (Magna Cum Laude), a Postgraduate Diploma in IT, and currently pursuing my Master's in Data Science.<br><br>
-💡 I specialize in data cleaning, visualization, and cloud-based analytics, with hands-on experience using Power BI, SQL, Looker Studio, and Google Cloud.<br><br>
-🔍 I've worked on projects spanning dashboard automation, anomaly detection, and small business data solutions—all aimed at transforming raw data into actionable insights.<br><br>
-📈 Passionate about continuous learning, I'm actively upskilling in Python and machine learning while exploring how data can drive smarter decision-making.
-</td>
-</tr>
+  <tr>
+    <td style="width: 180px; vertical-align: top; text-align: center;">
+      <img src="images/Michaela%20Pic%201.png" width="120" style="border-radius: 50%; border: 2px solid #0077B5;" alt="Profile Image" /><br><br>
+      <strong>Socials</strong><br>
+      <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a><br><br>
+      <strong>Follow</strong><br>
+      <img src="https://img.shields.io/badge/0%20followers-lightgrey?style=flat" alt="Followers" />
+      <img src="https://img.shields.io/badge/3%20following-lightgrey?style=flat" alt="Following" /><br><br>
+      📍 Cape Town, South Africa<br>
+      🕘 16:36 (SAST)<br>
+      📧 michaelarobyn01@email.com<br>
+      💼 <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer">in/michaela-de-bruyn</a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <div style="font-size: 18px; line-height: 1.5;">
+       About Me
+        Hi, I'm Michaela de Bruyn, a driven data professional with a BSc in IT (Magna Cum Laude), a Postgraduate Diploma in IT, and currently pursuing my Master's in Data Science.<br><br>
+        💡 I specialize in data cleaning, visualization, and cloud-based analytics, with hands-on experience using Power BI, SQL, Looker Studio, and Google Cloud.<br><br>
+        🔍 I've worked on projects spanning dashboard automation, anomaly detection, and small business data solutions—all aimed at transforming raw data into actionable insights.<br><br>
+        📈 Passionate about continuous learning, I'm actively upskilling in Python and machine learning while exploring how data can drive smarter decision-making.
+      </div>
+    </td>
+  </tr>
 </table>
+
 
 
 # 💻 Tech Stack:
