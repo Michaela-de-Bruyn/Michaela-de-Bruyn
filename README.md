@@ -1,26 +1,46 @@
-<!-- ABOUT SECTION: FLEX LAYOUT -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+<!-- PROFILE HEADER -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left Column: About Me Text -->
-  <div style="flex: 1 1 60%;">
+  <!-- LEFT: PROFILE IMAGE + SOCIALS -->
+  <div style="flex: 0 0 140px; text-align: center;">
+
+    <!-- Profile Image -->
+    <img src="images/Michaela%20Pic%201.png" alt="Profile Image"
+         style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #4A90E2; margin-bottom: 10px;" />
+
+    <!-- Socials -->
+    <div style="margin-top: 10px;">
+      <strong>Socials</strong><br>
+      <a href="https://www.linkedin.com/in/michaela-de-bruyn" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </div>
+
+    <!-- Follow Panel -->
+    <div style="margin-top: 15px; font-size: 13px; text-align: left; padding: 10px; background-color: #f6f8fa; border-radius: 8px;">
+      <strong>Michaela de Bruyn</strong><br>
+      🌍 Cape Town, South Africa<br>
+      🕘 16:36 (SAST)<br>
+      📧 michaela.email@example.com<br>
+      🔗 <a href="https://linktr.ee/michaela" target="_blank">linktr.ee/michaela</a><br>
+      💼 <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank">in/michaela-de-bruyn</a><br><br>
+      <img src="https://img.shields.io/badge/0%20followers-lightgrey?style=flat" />
+      <img src="https://img.shields.io/badge/3%20following-lightgrey?style=flat" />
+    </div>
+
+  </div>
+
+  <!-- RIGHT: ABOUT ME TEXT -->
+  <div style="flex: 1;">
     <h1>About Me</h1>
     <p>
       Hi, I'm Michaela de Bruyn, a driven data professional with a BSc in IT (Magna Cum Laude), a Postgraduate Diploma in IT, and currently pursuing my Master's in Data Science.<br><br>
-      I specialize in data cleaning, visualization, and cloud-based analytics, with hands-on experience using Power BI, SQL, Looker Studio, and Google Cloud.<br><br>
-      I've worked on projects spanning dashboard automation, anomaly detection, and small business data solutions—all aimed at transforming raw data into actionable insights.<br><br>
-      Passionate about continuous learning, I'm actively upskilling in Python and machine learning while exploring how data can drive smarter decision-making.
+      💡 I specialize in data cleaning, visualization, and cloud-based analytics, with hands-on experience using Power BI, SQL, Looker Studio, and Google Cloud.<br><br>
+      🔍 I've worked on projects spanning dashboard automation, anomaly detection, and small business data solutions—all aimed at transforming raw data into actionable insights.<br><br>
+      📈 Passionate about continuous learning, I'm actively upskilling in Python and machine learning while exploring how data can drive smarter decision-making.
     </p>
   </div>
 
-  <!-- Right Column: Profile Image + Socials -->
-  <div style="flex: 0 0 140px; text-align: center;">
-    <img src="images/Michaela%20Pic%201.png" alt="Profile Image"
-         style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #4A90E2; margin-bottom: 10px;" />
-    <br>
-    <a href="https://www.linkedin.com/in/michaela-de-bruyn" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
 </div>
 
 
