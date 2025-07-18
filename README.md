@@ -1,24 +1,5 @@
-<!-- Profile Image and Socials -->
-<p float="left" align="center" style="margin-right: 20px;">
-  <img 
-    src="images/Michaela%20Pic%201.png" 
-    alt="Profile Image" 
-    width="120" 
-    style="border-radius: 50%; border: 2px solid #0077B5;" />
-  <br><br>
-  <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" />
-  </a>
-  <br><br>
-  <p style="font-size: 14px; line-height: 1.4; margin-top: 0;">
-    📍 South Africa<br>
-  </p>
-</p>
-
 <!-- About Me Section -->
-<div style="font-size: 18px; line-height: 1.5; max-width: 700px; margin-left: 160px;">
+<div style="font-size: 18px; line-height: 1.5; max-width: 700px; margin-bottom: 20px;">
   
 ### About Me
 
@@ -26,6 +7,30 @@ Hi, I'm Michaela de Bruyn, a driven data professional passionate about uncoverin
 I love data cleaning, visualization, and cloud analytics, and I continuously upskill in Python and machine learning to turn data into smarter decisions.
 
 </div>
+
+<!-- Data Science Image and Socials -->
+<div style="text-align: center; max-width: 400px; margin: auto;">
+
+  <img 
+    src="images/Data%20Science.png" 
+    alt="Data Science" 
+    width="400" 
+    style="display: block; margin: 0 auto;" />
+  <br />
+
+  <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 15px;">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" />
+  </a>
+
+  <div style="font-size: 14px; line-height: 1.4;">
+    📍 South Africa<br />
+    💼 <a href="https://linkedin.com/in/michaela-de-bruyn" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+  </div>
+  
+</div>
+
 
 ## Projects
 
