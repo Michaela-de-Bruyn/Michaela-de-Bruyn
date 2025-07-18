@@ -1,7 +1,7 @@
 <!-- About Me Section -->
 <div style="font-size: 22px; line-height: 1.6; max-width: 700px; margin-bottom: 30px;">
 
-About Me
+## About Me
 
 I am passionate about understanding how to harness data through advanced modeling, Python programming, and manipulation techniques to uncover insights that drive smarter, impactful decisions. With a strong foundation in IT and ongoing Master’s studies in Data Science, I enjoy transforming complex data into clear, actionable stories. Follow me on my upskilling journey as I dive deeper into Python, machine learning, and cutting-edge analytics tools to continually grow and deliver value. My goal is to use data to empower smarter decision-making and meaningful business impact.
 
@@ -21,6 +21,7 @@ I am passionate about understanding how to harness data through advanced modelin
   </div>
 
   <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+## Projects
     Socials
   </div>
 
