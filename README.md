@@ -70,10 +70,6 @@ I am passionate about understanding how to harness data through advanced modelin
   <a href="https://github.com/michaela-de-bruyn/michaela-de-bruyn"><strong>github.com/michaela-de-bruyn</strong></a>
 </p>
 
-<p align="center">
-  📫 How to reach me: <strong>michaelarobyn01@gmail.com</strong>
-</p>
-
 ---
 
 ## <p align="center">Prior Projects</p>
