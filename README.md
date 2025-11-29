@@ -63,18 +63,19 @@ I am passionate about understanding how to harness data through advanced modelin
 
 ---
 
-## GitHub overview
-<p align="center">
-  <!-- main stats card (dark/neon theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub stats" width="48%" />
-  <!-- top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaela-de-Bruyn&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" width="40%" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaela-de-Bruyn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <!-- streak card only (no calendar) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michaela-de-Bruyn&theme=synthwave&hide_border=true" alt="GitHub streak" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Michaela-de-Bruyn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Michaela-de-Bruyn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
