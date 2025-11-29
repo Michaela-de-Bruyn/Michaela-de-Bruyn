@@ -80,3 +80,64 @@ I am passionate about understanding how to harness data through advanced modelin
 
 <p align="center">
   • <strong>Dashboard Automation:</strong> Automated Excel reports into a Power BI dashboard by collaborating with Jira teams.<br>
+  • <strong>Anomaly Detection:</strong> Cleaned and processed retail data for anomaly reporting in Looker Studio + Google Cloud.<br>
+  • <strong>Small Business Tracker:</strong> Built an Excel + SQL + Power BI solution for a plumbing business to track clients, services, and profitability.
+</p>
+
+---
+
+# <p align="center">Tech Stack</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+</p>
+
+---
+
+# <p align="center">GitHub Stats</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true" />
+</p>
+
+---
+
+## <p align="center">GitHub Contribution Snake</p>
+
+<p align="center">
+  <img src="https://github.com/Michaela-de-Bruyn/Michaela-de-Bruyn/blob/output/github-snake-dark.svg" width="700">
+</p>
+
+---
+
+### <p align="center">Dev Quote</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- Proudly created by Michaela de Bruyn -->
