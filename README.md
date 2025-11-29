@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michaela de Bruyn</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Data Scientist from Cape Town, South Africa</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=michaela-de-bruyn&label=Profile%20views&color=0e75b6&style=flat" alt="michaela-de-bruyn" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=michaela-de-bruyn" alt="michaela-de-bruyn" />
   </a> 
@@ -14,7 +14,7 @@
 ---
 
 <!-- About Me Section -->
-<div style="font-size: 22px; line-height: 1.6; max-width: 700px; margin-bottom: 30px;">
+<div align="center" style="font-size: 22px; line-height: 1.6; max-width: 700px; margin: 0 auto 30px;">
 
 ## About Me
 
@@ -58,46 +58,37 @@ I am passionate about understanding how to harness data through advanced modelin
 
 ---
 
-- 🔭 I’m currently working on **Markerless Kinematic Analysis of Figure Skating Jump Landings** — A master’s research project using computer vision + IMUs to analyse landing stability.
+<p align="center"><strong>Currently working on:</strong> Markerless Kinematic Analysis of Figure Skating Jump Landings — A master’s research project using computer vision + IMUs to analyse landing stability.</p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, SQL, Python and cloud tools.**
+<p align="center"><strong>Currently learning:</strong> Machine Learning, Data Science, SQL, Python and cloud tools.</p>
 
-- 👨‍💻 All of my projects are available at  
-  **https://github.com/michaela-de-bruyn/michaela-de-bruyn**
+<p align="center"><strong>All of my projects are available at</strong><br>
+<a href="https://github.com/michaela-de-bruyn/michaela-de-bruyn">https://github.com/michaela-de-bruyn/michaela-de-bruyn</a>
+</p>
 
-- 📫 How to reach me **michaelarobyn01@gmail.com**
-
----
-
-## Featured Projects  
-[Netflix Analysis](https://github.com/Michaela-de-Bruyn/netflix-data-analysis)
-
-A beginner-friendly data exploration of Netflix titles  
-Dive into the data behind one of the world's biggest streaming platforms. This project uses Python, pandas, matplotlib, and seaborn to analyze content trends, types, and release patterns on Netflix.
-
-**Key Highlights:**  
-✔ Cleaned and explored real Netflix dataset  
-✔ Visualized content distribution by type and release year  
-✔ Identified trends in movie vs TV show releases  
+<p align="center"><strong>How to reach me:</strong><br>michaelarobyn01@gmail.com</p>
 
 ---
 
 ## Prior Projects
 
-- **Dashboard Automation:** Automated manual Excel reports into a dynamic Power BI dashboard by collaborating with Jira teams to access and analyze data.  
-- **Anomaly Detection:** Cleaned and processed data to identify anomalies for retail dashboard reporting using Looker Studio and Google Cloud.  
-- **Small Business Tracker:** Built an Excel tracker with SQL and Power BI for a plumbing business to monitor clients, services, and profitability.
+<p align="center">
+- <strong>Dashboard Automation:</strong> Automated manual Excel reports into a dynamic Power BI dashboard by collaborating with Jira teams to access and analyze data.<br>
+- <strong>Anomaly Detection:</strong> Cleaned and processed data to identify anomalies for retail dashboard reporting using Looker Studio and Google Cloud.<br>
+- <strong>Small Business Tracker:</strong> Built an Excel tracker with SQL and Power BI for a plumbing business to monitor clients, services, and profitability.
+</p>
 
 ---
 
 # Tech Stack:
+<p align="center">
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/bbadge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/bbadge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -112,23 +103,31 @@ Dive into the data behind one of the world's biggest streaming platforms. This p
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+</p>
 
 ---
 
 # GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)<br/>
+</p>
 
+<p align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true)<br/>
+</p>
 
 ---
 
 ## 🟩 GitHub Contribution
+<p align="center">
 ![snake gif](https://github.com/Michaela-de-Bruyn/Michaela-de-Bruyn/blob/output/github-snake-dark.svg)
-
+</p>
 
 ---
 
 ### Dev Quote  
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</p>
 
 <!-- Proudly created by Michaela de Bruyn -->
