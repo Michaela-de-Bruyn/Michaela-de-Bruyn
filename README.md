@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Machine Learning Engineer and Data Scientist from Cape Town, South Africa</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=michaela-de-bruyn&label=Profile%20views&color=0e75b6&style=flat" alt="michaela-de-bruyn" /> 
+  <img src="https://komarev.com/ghpvc/?username=Michaela-de-Bruyn&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=michaela-de-bruyn" alt="michaela-de-bruyn" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Michaela-de-Bruyn" />
   </a> 
 </p>
 
@@ -22,52 +22,33 @@ I am passionate about understanding how to harness data through advanced modelin
 
 </div>
 
-<!-- Data Science Images Side-by-Side -->
+<!-- Data Science Images -->
 <table align="center">
   <tr>
-    <td align="center">
-      <img 
-        src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/360_F_258871009_f5net6t178mMF1nekdg2AS2vuOUhpDjL.jpg" 
-        width="250"
-      >
-    </td>
-    <td align="center">
-      <img 
-        src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/Data%20Science.png" 
-        width="250"
-      >
-    </td>
-    <td align="center">
-      <img 
-        src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/istockphoto-1448152453-612x612.jpg" 
-        width="250"
-      >
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/360_F_258871009_f5net6t178mMF1nekdg2AS2vuOUhpDjL.jpg" width="250"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/Data%20Science.png" width="250"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/istockphoto-1448152453-612x612.jpg" width="250"></td>
   </tr>
 </table>
-
-<!-- Additional Data Science / ML Banners -->
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*oPBNyB7l8WZbfjSExD2L2Q.gif" width="700">
-</p>
-
-<p align="center">
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/intro.gif" width="700">
-</p>
 
 ---
 
 <p align="center">
-  🔭 I’m currently working on <strong>Markerless Kinematic Analysis of Figure Skating Jump Landings</strong> — a master’s research project using computer vision + IMUs to analyse landing stability.
+  <strong>Currently working on:</strong> Markerless Kinematic Analysis of Figure Skating Jump Landings  
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Machine Learning, Data Science, SQL, Python and cloud tools.</strong>
+  <strong>Learning:</strong> Machine Learning, Data Science, SQL, Python and cloud tools  
 </p>
 
 <p align="center">
-  👨‍💻 All of my projects are available at<br>
-  <a href="https://github.com/michaela-de-bruyn/michaela-de-bruyn"><strong>github.com/michaela-de-bruyn</strong></a>
+  <strong>Projects:</strong><br>
+  <a href="https://github.com/Michaela-de-Bruyn/Michaela-de-Bruyn">github.com/Michaela-de-Bruyn</a>
+</p>
+
+<p align="center">
+  <strong>Contact:</strong><br>
+  michaelarobyn01@gmail.com
 </p>
 
 ---
@@ -75,9 +56,9 @@ I am passionate about understanding how to harness data through advanced modelin
 ## <p align="center">Prior Projects</p>
 
 <p align="center">
-  • <strong>Dashboard Automation:</strong> Automated Excel reports into a Power BI dashboard by collaborating with Jira teams.<br>
-  • <strong>Anomaly Detection:</strong> Cleaned and processed retail data for anomaly reporting in Looker Studio + Google Cloud.<br>
-  • <strong>Small Business Tracker:</strong> Built an Excel + SQL + Power BI solution for a plumbing business to track clients, services, and profitability.
+• Automated Excel → Power BI dashboards via Jira integrations<br>
+• Anomaly detection for retail dashboards (Looker Studio + GCP)<br>
+• SQL + Excel profitability tracker for a small business
 </p>
 
 ---
@@ -85,51 +66,44 @@ I am passionate about understanding how to harness data through advanced modelin
 # <p align="center">Tech Stack</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KNIME-009999?style=flat&logo=knime&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center"> 
+# <p align="center">GitHub Stats</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=michaela-de-bruyn&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=Michaela-de-Bruyn&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+    width="49%" 
+  />
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Michaela-de-Bruyn&layout=compact&theme=tokyonight"
+    width="41%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=michaela-de-bruyn&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Michaela-de-Bruyn&theme=tokyonight&hide_border=true"
+    width="60%" 
   />
 </p>
 
 ---
 
-## <p align="center">GitHub Contribution Snake</p>
+## <p align="center">Contribution Snake</p>
 
 <p align="center">
-  <img src="https://github.com/Michaela-de-Bruyn/Michaela-de-Bruyn/blob/output/github-snake-dark.svg" width="700">
+  <img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-snake-dark.svg" width="700">
 </p>
 
 ---
@@ -137,7 +111,9 @@ I am passionate about understanding how to harness data through advanced modelin
 ### <p align="center">Dev Quote</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<!-- Proudly created by Michaela de Bruyn -->
+---
+
+<p align="center"><i>Created by Michaela de Bruyn</i></p>
