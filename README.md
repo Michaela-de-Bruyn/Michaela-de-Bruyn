@@ -110,14 +110,18 @@ I am passionate about understanding how to harness data through advanced modelin
 
 ---
 
-# <p align="center">GitHub Stats</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" />
+<p align="center"> 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=michaela-de-bruyn&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=michaela-de-bruyn&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
