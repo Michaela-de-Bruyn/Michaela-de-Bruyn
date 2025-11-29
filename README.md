@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Michaela-de-Bruyn&theme=synthwave" alt="trophies" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Michaela-de-Bruyn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
   </a>
 </p>
 
@@ -67,9 +68,6 @@ I am passionate about understanding how to harness data through advanced modelin
 ![](https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaela-de-Bruyn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Michaela-de-Bruyn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
