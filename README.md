@@ -122,6 +122,15 @@ Dive into the data behind one of the world's biggest streaming platforms. This p
 
 ---
 
+## 📊 GitHub Contribution Graph
+[![Michaela’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michaela-de-bruyn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🟩 GitHub Contributions Table
+![Michaela's GitHub contributions](https://github-contribution-grid.vercel.app/api/svg?username=michaela-de-bruyn&color=green)
+
+---
+
+
 ### Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
