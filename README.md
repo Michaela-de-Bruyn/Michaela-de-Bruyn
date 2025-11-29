@@ -27,7 +27,7 @@ I am passionate about understanding how to harness data through advanced modelin
   <tr>
     <td align="center">
       <img 
-        src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/REPLACE_IMAGE_1" 
+        src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/360_F_258871009_f5net6t178mMF1nekdg2AS2vuOUhpDjL.jpg" 
         width="250"
       >
     </td>
