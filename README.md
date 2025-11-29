@@ -1,28 +1,51 @@
-<h1 align="center">Hi 👋, I'm Michaela de Bruyn</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Data Scientist from Cape Town, South Africa</h3>
+<!-- About Me Section -->
+<div style="font-size: 22px; line-height: 1.6; max-width: 700px; margin-bottom: 30px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaela-de-bruyn&label=Profile%20views&color=0e75b6&style=flat" alt="michaela-de-bruyn" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaela-de-bruyn" alt="michaela-de-bruyn" /></a> </p>
+I am passionate about understanding how to harness data through advanced modeling, Python programming, and manipulation techniques to uncover insights that drive smarter, impactful decisions. With a strong foundation in IT and ongoing Master’s studies in Data Science, I enjoy transforming complex data into clear, actionable stories. Follow me on my upskilling journey as I dive deeper into Python, machine learning, and cutting-edge analytics tools to continually grow and deliver value. My goal is to use data to empower smarter decision-making and meaningful business impact.
 
-- 🔭 I’m currently working on **Markerless Kinematic Analysis of Figure Skating Jump Landings** A master’s research project using computer vision + IMUs to analyse landing stability.**
+</div>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, SQL, Python and cloud tools.**
+<!-- Image and Socials -->
+<div style="max-width: 700px; margin: auto; text-align: center;">
 
-- 👨‍💻 All of my projects are available at [https://github.com/michaela-de-bruyn/michaela-de-bruyn](https://github.com/michaela-de-bruyn/michaela-de-bruyn)
+  <img 
+    src="images/Data%20Science.png" 
+    alt="Data Science" 
+    width="400" 
+    style="display: inline-block; margin-bottom: 20px;" />
 
-- 📫 How to reach me **michaelarobyn01@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michaela-de-bruyn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michaela-de-bruyn/" height="30" width="40" /></a>
-</p>
+## Featured Projects
+[Netflix Analysis](https://github.com/Michaela-de-Bruyn/netflix-data-analysis)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+A beginner-friendly data exploration of Netflix titles
+Dive into the data behind one of the world's biggest streaming platforms. This project uses Python, pandas, matplotlib, and seaborn to analyze content trends, types, and release patterns on Netflix.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaela-de-bruyn&show_icons=true&locale=en&layout=compact" alt="michaela-de-bruyn" /></p>
+Key Highlights:
+Cleaned and explored real Netflix dataset
+Visualized content distribution by type and release year
+Identified trends in movie vs TV show releases over time
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaela-de-bruyn&show_icons=true&locale=en" alt="michaela-de-bruyn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaela-de-bruyn&" alt="michaela-de-bruyn" /></p>
+## Prior Projects
+
+- **Dashboard Automation:** Automated manual Excel reports into a dynamic Power BI dashboard by collaborating with Jira teams to access and analyze data.
+- **Anomaly Detection:** Cleaned and processed data to identify anomalies for retail dashboard reporting using Looker Studio and Google Cloud.
+- **Small Business Tracker:** Built an Excel tracker with SQL and Power BI for a plumbing business to monitor clients, services, and profitability.
+
+
+
+# Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=ambient_gradient&hide_border=true)<br/>
+
+### Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created by Michaela de Bruyn --!>
