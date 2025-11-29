@@ -24,27 +24,28 @@ I am passionate about understanding how to harness data through advanced modelin
 
 <!-- Image and Socials -->
 <!-- Additional Data Science Images (place below About Me) -->
-<div align="center">
+<!-- Side-by-side Data Science Images -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
 
   <img 
     src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/360_F_258871009_f5net6t178mMF1nekdg2AS2vuOUhpDjL.jpg" 
     alt="Data Science Visual 1" 
-    width="520" 
-    style="display:block; margin: 12px auto;" 
+    width="300" 
+    style="border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/Data%20Science.png" 
     alt="Data Science Visual 2" 
-    width="520" 
-    style="display:block; margin: 12px auto;" 
+    width="300" 
+    style="border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/michaela-de-bruyn/michaela-de-bruyn/main/images/istockphoto-1448152453-612x612.jpg" 
     alt="Data Science Visual 3" 
-    width="480" 
-    style="display:block; margin: 12px auto;" 
+    width="300" 
+    style="border-radius: 10px;"
   />
 
 </div>
