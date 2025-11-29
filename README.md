@@ -122,8 +122,8 @@ Dive into the data behind one of the world's biggest streaming platforms. This p
 
 ---
 
-## 🟩 GitHub Contribution Calendar
-![Michaela’s GitHub Contribution Calendar](https://github-contributions.vercel.app/api/v1/michaela-de-bruyn?format=svg&theme=github-dark)
+## 🟩 GitHub Contribution
+![snake gif](https://github.com/Michaela-de-Bruyn/Michaela-de-Bruyn/blob/output/github-snake-dark.svg)
 
 
 ---
