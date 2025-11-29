@@ -123,7 +123,7 @@ Dive into the data behind one of the world's biggest streaming platforms. This p
 ---
 
 ## 🟨 Soft Contribution Grid
-![Michaela GitHub Grid](https://github-contribution-grid.vercel.app/api/svg?username=michaela-de-bruyn&color=green)
+![Contribution Grid](https://github-contributions.vercel.app/api/v1/michaela-de-bruyn)
 
 ---
 
