@@ -57,20 +57,12 @@ I am passionate about harnessing data through advanced modeling, **Python progra
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img-color.j3f.co/github/KNIME-logo-D3D3D3-516584-ffffff-516584?style=for-the-badge&logo=KNIME&labelColor=516584&color=D3D3D3" alt="KNIME" />
 </p>
 
 <hr/>
 
 <h2>🏆 Achievements & Activity</h2>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Michaela-de-Bruyn&theme=onedark&margin-w=8" alt="github trophies" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-snake-dark.svg" width="90%" alt="GitHub Contribution Snake" />
-</p>
 
 <h3>👾 Pac-Man Contribution Graph</h3>
 <picture>
