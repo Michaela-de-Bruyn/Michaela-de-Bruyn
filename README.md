@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/github-header-banner.png" width="900" alt="Michaela de Bruyn - Machine Learning Engineer and Data Scientist Banner" />
 </a>
 <h1>Hi, I'm Michaela de Bruyn 👋</h1>
-<h3>A passionate Machine Learning Engineer and Data Scientist from Cape Town, South Africa</h3>
+<h3>Junior Data Engineer with 5+ Years in Data Analytics & Business Intelligence from Cape Town, South Africa</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Michaela-de-Bruyn&label=Profile%20views&color=586e75&style=for-the-badge" alt="Profile views" />
@@ -14,7 +14,19 @@
 
 <h2>👩‍💻 About Me</h2>
 <div style="font-size:16px; line-height:1.6; max-width:900px; margin:0 auto 24px;">
-I am passionate about harnessing data through advanced modeling, **Python programming**, and clear **visual storytelling**. With a foundation in IT and ongoing Master’s studies in Data Science, I transform complex data into actionable insights. Current focus: **markerless kinematic analysis** (computer vision + IMUs) for jump-landing stability; learning advanced ML, cloud analytics, and reproducible pipelines.
+I'm a <strong>Junior Data Engineer</strong> based in Cape Town, South Africa with over <strong>5 years of experience</strong> across Data Analytics, Business Analysis, Business Intelligence, and Agile delivery.
+
+Throughout my career, I've worked with data to improve reporting, automate processes, support business decisions, and collaborate with technical teams. I'm now focusing on building a career in <strong>Data Engineering and Cloud Engineering</strong>, developing hands-on experience designing ETL pipelines, working with SQL Server, Databricks, Python, and cloud platforms including Google Cloud, Azure, and AWS.
+
+I enjoy transforming raw data into reliable, scalable datasets and continuously expanding my skills in cloud architecture, data warehousing, and modern data engineering practices.
+
+🚀 **Current Focus**
+- Data Engineering
+- Cloud Engineering
+- ETL / ELT Pipelines
+- Data Warehousing
+- SQL & Python
+- Google Cloud • Azure • AWS
 </div>
 
 <p>
