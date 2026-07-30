@@ -1,121 +1,85 @@
+
 <div align="center">
+<img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/michaela-banner.png" width="100%" alt="Michaela de Bruyn Banner"/>
 
-<a href="https://github.com/Michaela-de-Bruyn" target="_blank">
-  <img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/github-header-banner.png" width="900" alt="Michaela de Bruyn - Machine Learning Engineer and Data Scientist Banner" />
-</a>
-<h1>Hi, I'm Michaela de Bruyn 👋</h1>
-<h3>Junior Data Engineer with 5+ Years in Data Analytics & Business Intelligence from Cape Town, South Africa</h3>
+# 👋 Hi, I'm Michaela de Bruyn
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Michaela-de-Bruyn&label=Profile%20views&color=586e75&style=for-the-badge" alt="Profile views" />
-</p>
+### ☁️ Junior Data Engineer • Data Analytics Professional
 
-<hr/>
+📍 Cape Town, South Africa 🇿🇦
 
-<h2>👩‍💻 About Me</h2>
-<div style="font-size:16px; line-height:1.6; max-width:900px; margin:0 auto 24px;">
-I'm a <strong>Junior Data Engineer</strong> based in Cape Town, South Africa with over <strong>5 years of experience</strong> across Data Analytics, Business Analysis, Business Intelligence, and Agile delivery.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4FA3FF&center=true&vCenter=true&width=850&lines=Building+Cloud+Data+Solutions;Designing+Modern+ETL+Pipelines;SQL+%7C+Python+%7C+Databricks;Azure+%7C+AWS+%7C+Google+Cloud;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
-Throughout my career, I've worked with data to improve reporting, automate processes, support business decisions, and collaborate with technical teams. I'm now focusing on building a career in <strong>Data Engineering and Cloud Engineering</strong>, developing hands-on experience designing ETL pipelines, working with SQL Server, Databricks, Python, and cloud platforms including Google Cloud, Azure, and AWS.
+<a href="https://www.linkedin.com/in/michaela-de-bruyn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:michaelarobyn01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Michaela-de-Bruyn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-I enjoy transforming raw data into reliable, scalable datasets and continuously expanding my skills in cloud architecture, data warehousing, and modern data engineering practices.
+<img src="https://komarev.com/ghpvc/?username=Michaela-de-Bruyn&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
-🚀 **Current Focus**
-- Data Engineering
-- Cloud Engineering
-- ETL / ELT Pipelines
-- Data Warehousing
-- SQL & Python
-- Google Cloud • Azure • AWS
 </div>
 
-<p>
-    <img src="https://img.shields.io/badge/Data_Science-26A69A?style=for-the-badge&logo=datadoghq&logoColor=white" alt="Data Science Focus" />
-    <img src="https://img.shields.io/badge/Computer_Vision-5D5D81?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Focus" />
-    <img src="https://img.shields.io/badge/Machine_Learning-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Focus" />
-</p>
+<div align="center">
 
-<p>
-    <strong>✨ Focus:</strong> Markerless Kinematic Analysis of Figure Skating Jump Landings — computer vision + IMUs.<br/>
-    <strong>🧠 Learning:</strong> Advanced ML, Cloud Analytics, Reproducible Pipelines
-</p>
+| | |
+|:--|:--|
+| **💼 Role** | Junior Data Engineer |
+| **📊 Experience** | 5+ Years in Data & Analytics |
+| **📍 Location** | Cape Town, South Africa |
+| **💡 Passion** | Building reliable data platforms & modern ETL pipelines |
 
-<hr/>
+</div>
 
-<h2>🛠️ Tech Stack & Expertise</h2>
+## 🚀 Current Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSIS-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ELT-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Pipelines-00695C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modelling-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge<Data_Warehousing-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge"/>
 
-<hr/>
+</div>
 
-<h2>🏆 Achievements & Activity</h2>
+<div align="center">
+  
+# 🚀 Featured Project
 
+## 🏗️ Urban Basket Data Warehouse
 
-<h3>👾 Pac-Man Contribution Graph</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/pacman-contribution-graph.svg">
-</picture>
+**Currently building an end-to-end data warehouse solution using SQL Server, Databricks and modern ETL pipelines.**
 
-<hr/>
+🚧 **Repository Coming Soon**
 
-<h2>📊 GitHub Statistics</h2>
+</div>
 
-<p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Michaela-de-Bruyn&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p>
+## ⚡ Tech Stack
 
+<div align="center">
 
-<hr/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,aws,gcp,git,github,vscode,docker"/>
 
-<h3>✨ Random Dev Quote</h3>
-<p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+</div>
+## 🐍 Contribution Snake
 
-<hr/>
+<div align="center">
 
-<h2>🔗 Connect</h2>
+![](https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake-dark.svg)
 
-<p>
-  <a href="https://www.linkedin.com/in/michaela-de-bruyn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Michaela-de-Bruyn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" alt="GitHub" />
-  </a>
-</p>
+</div>
 
-<hr/>
+<div align="center">
 
-<p>Created by Michaela de Bruyn</p>
+### 💙 *"Transforming raw data into trusted insights through modern data engineering."*
+
+</div>
+
+<div align="center">
+
+Designed & Built by **Michaela de Bruyn** 
 
 </div>
