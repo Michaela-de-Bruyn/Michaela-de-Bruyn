@@ -64,22 +64,30 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,aws,gcp,git,github,vscode,docker"/>
 
 </div>
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 </div>
 
 <div align="center">
 
-### 💙 *"Transforming raw data into trusted insights through modern data engineering."*
-
-</div>
-
-<div align="center">
-
-Designed & Built by **Michaela de Bruyn** 
+Designed & Built by **Michaela de Bruyn**
 
 </div>
