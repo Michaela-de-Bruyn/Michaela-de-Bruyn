@@ -49,11 +49,29 @@
   
 # 🚀 Featured Project
 
-## 🏗️ Urban Basket Data Warehouse
+<div align="center">
 
-**Currently building an end-to-end data warehouse solution using SQL Server, Databricks and modern ETL pipelines.**
+## 🏥 Hospital Patient Flow & Waiting Time Analytics
 
-🚧 **Repository Coming Soon**
+**End-to-End Data Engineering & Business Intelligence Project**
+
+A healthcare analytics solution built to transform **29,933 hospital patient encounters** into a validated, business-ready analytical model. The project covers data ingestion, cleaning, validation, transformation, dimensional modelling and operational analytics using **SQL Server, Databricks, SQL and Power BI**.
+
+**Key Focus Areas:** Patient Flow · Waiting Times · Data Quality · Data Modelling · Operational Analytics
+
+### 🛠️ Tech Stack
+
+`SQL` · `SQL Server` · `Databricks` · `Lakeflow` · `Power BI` · `DAX` · `Git`
+
+### 🔗 [View the Full Project →](https://github.com/Michaela-de-Bruyn/hospital-patient-flow-analytics)
+
+*Explore the complete pipeline, data architecture, transformations, data quality checks, analytical model and dashboard.*
+
+</div>
+
+---
+
+🚧 **More data engineering projects coming soon.**
 
 </div>
 
