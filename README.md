@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/main/images/michaela-banner.png" width="100%" alt="Michaela de Bruyn Banner"/>
 
