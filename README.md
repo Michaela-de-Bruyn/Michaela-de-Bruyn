@@ -167,27 +167,6 @@ Rather than treating cybersecurity as only a technical exercise, this project lo
 - [ ] IAM: access review and least-privilege exercises
 - [ ] Cloud security: foundational security configuration and review
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Michaela-de-Bruyn/Michaela-de-Bruyn/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
