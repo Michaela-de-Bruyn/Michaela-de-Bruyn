@@ -93,21 +93,50 @@ I'm developing a simulated company environment as a hands-on GRC portfolio proje
 
 <div align="center">
 
-### 🏥 Hospital Patient Flow & Waiting Time Analytics
+### 🤖 CapeConnect | AI Chatbot Governance, Risk & Security Assessment
 
-**End-to-End Data Engineering & Business Intelligence Project**
+**GRC Portfolio Project · Project Initiation**
+
+<img src="https://img.shields.io/badge/PROJECT-GRC%20%7C%20CYBERSECURITY-315B78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20GOVERNANCE-477A68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-D99A32?style=for-the-badge"/>
 
 </div>
 
-A healthcare analytics solution built to transform **29,933 hospital patient encounters** into a validated, business-ready analytical model. The project covers data ingestion, cleaning, validation, transformation, dimensional modelling and operational analytics using SQL Server, Databricks, SQL and Power BI.
+I'm developing a practical GRC assessment for **CapeConnect**, a fictional South African technology-enabled customer service company planning to introduce an AI-powered customer support chatbot.
 
-**Key focus areas:** Patient flow · Waiting times · Data quality · Data modelling · Operational analytics
+The project explores the information security, privacy, operational and third-party risks that can arise when an AI chatbot collects customer information, processes support conversations and relies on an external AI provider.
 
-**Tech stack:** `SQL` · `SQL Server` · `Databricks` · `Lakeflow` · `Power BI` · `DAX` · `Git`
+Rather than treating cybersecurity as only a technical exercise, this project looks at how a GRC analyst can understand the business, identify risks, evaluate safeguards, review evidence and communicate actionable recommendations to management.
+
+**Assessment focus**
+- Customer personal information and POPIA considerations
+- Chatbot data collection, processing, storage and retention
+- User access, permissions and information security controls
+- Third-party AI provider risk and responsibilities
+- Employee awareness, incident reporting and response
+- Security policies, procedures and control gaps
+
+**Frameworks & references**
+
+\`POPIA\` · \`ISO/IEC 27001:2022\` · \`NIST Cybersecurity Framework 2.0\`
+
+**Planned deliverables**
+
+| Deliverable | Purpose |
+|:--|:--|
+| Risk assessment & risk register | Identify, evaluate and prioritise chatbot-related risks |
+| Control assessment | Review the design of relevant security safeguards |
+| Evidence register | Track evidence requested, received and reviewed |
+| Compliance gap assessment | Identify potential gaps against selected requirements |
+| Findings report | Document control weaknesses and recommendations |
+| Remediation tracker | Monitor corrective actions |
+| Executive summary | Communicate key risks and priorities to management |
+| AI automation prototype | Explore AI-assisted document review, evidence classification and reporting |
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-hospital%20analytics-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michaela-de-Bruyn/hospital-patient-flow-analytics)
+*Fictional training and portfolio project. All company details, scenarios and evidence are simulated.*
 
 </div>
 
